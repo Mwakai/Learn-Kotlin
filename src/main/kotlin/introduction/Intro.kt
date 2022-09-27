@@ -1,6 +1,8 @@
 package introduction
 
     fun main(args: Array<String>) {
-        println("Hello, ${args.getOrNull(0)}!")
+        val name = "Kotlin"
+        println("Hello, $name!")
+
 
     }
