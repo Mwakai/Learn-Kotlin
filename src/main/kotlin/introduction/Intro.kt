@@ -1,6 +1,6 @@
 package introduction
 
-    fun main(args: Array<String>) {
+    fun main() {
         val name = "Kotlin"
         println("Hello, $name!")
 
