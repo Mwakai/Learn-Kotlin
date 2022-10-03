@@ -1,3 +1,9 @@
 package introduction
 
-class Functions
+
+fun greetings(): String {
+    return "Hello"
+}
+fun main() {
+    println(greetings())
+}
